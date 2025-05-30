@@ -1,0 +1,45 @@
+[debug] [2024-04-16T16:05:44.750Z] : 
+[debug] [2024-04-16T16:05:44.751Z] : ----------------------------------------------------------------------
+[debug] [2024-04-16T16:05:44.751Z] : Command:      D:\VS FILES\node.exe C:\Users\Dell\AppData\Roaming\npm\node_modules\zcatalyst-cli\lib\bin\catalyst.js init
+[debug] [2024-04-16T16:05:44.751Z] : CLI Version:  1.17.5
+[debug] [2024-04-16T16:05:44.751Z] : Platform:     win32
+[debug] [2024-04-16T16:05:44.751Z] : Node Version: v20.11.1
+[debug] [2024-04-16T16:05:44.752Z] : Time:         Tue Apr 16 2024 21:35:44 GMT+0530 (India Standard Time)
+[debug] [2024-04-16T16:05:44.752Z] : ----------------------------------------------------------------------
+[debug] [2024-04-16T16:05:44.752Z] : 
+[debug] [2024-04-16T16:05:45.272Z] : > authorizing via signed-in user option
+[debug] [2024-04-16T16:05:45.273Z] : > command requires scopes: ["ZohoCatalyst.projects.ALL","ZohoCatalyst.projects.ALL","Stratus.sdkop.CREATE","Stratus.sdkop.READ","ZohoCatalyst.project.import.CREATE"]
+[info] [2024-04-16T16:05:45.282Z] : 
+      ___  
+      \  \     ____           _             _                 _   
+   ___ \  \   / ___|   __ _  | |_    __ _  | |  _   _   ___  | |_ 
+  /  / /  /  | |      / _` | | __|  / _` | | | | | | | / __| | __|
+ /  / /__/   | |___  | (_| | | |_  | (_| | | | | |_| | \__ \ | |_ 
+ \  \         \____|  \__,_|  \__|  \__,_| |_|  \__, | |___/  \__|
+  \__\                                          |___/       
+
+You're about to initialize a Catalyst project in this directory:
+
+  D:\Fitness-Tracker\Fitness-Tracker
+
+Before we get started, keep in mind:
+
+  * You are currently outside your home directory
+
+[debug] [2024-04-16T16:05:47.623Z] : >>>> HTTP REQUEST : GET https://api.catalyst.zoho.in/baas/v1/orgs 
+
+[debug] [2024-04-16T16:05:48.531Z] : <<<< HTTP RESPONSE : 200
+Response Headers: {"server":"ZGS","date":"Tue, 16 Apr 2024 16:05:48 GMT","content-type":"application/vnd.catalyst.v2+json","transfer-encoding":"chunked","connection":"keep-alive","set-cookie":["3a750b85f1=7c58023b2365c117e2ff9b6feb09efa2; Path=/","ZD_CSRF_TOKEN=5c669189-5376-4f90-8252-6202f9556c50;path=/;SameSite=None;Secure;priority=high","_zcsr_tmp=5c669189-5376-4f90-8252-6202f9556c50;path=/;SameSite=Strict;Secure;priority=high"],"x-content-type-options":"nosniff","x-xss-protection":"1","cache-control":"private,no-cache,no-store,max-age=0,must-revalidate","pragma":"no-cache","expires":"Thu, 01 Jan 1970 00:00:00 GMT","x-frame-options":"DENY","strict-transport-security":"max-age=63072000"}
+
+[info] [2024-04-16T16:05:48.536Z] : i Setting up a new default project for this folder
+
+[debug] [2024-04-16T16:05:48.537Z] : >>>> HTTP REQUEST : GET https://api.catalyst.zoho.in/baas/v1/project 
+
+[debug] [2024-04-16T16:05:48.677Z] : <<<< HTTP RESPONSE : 200
+Response Headers: {"server":"ZGS","date":"Tue, 16 Apr 2024 16:05:49 GMT","content-type":"application/vnd.catalyst.v2+json","transfer-encoding":"chunked","connection":"keep-alive","set-cookie":["3a750b85f1=99131cfabfda186b4fe68a16fb8fedd6; Path=/","ZD_CSRF_TOKEN=17948e86-142d-49f0-a0c7-2757c099d6e4;path=/;SameSite=None;Secure;priority=high","_zcsr_tmp=17948e86-142d-49f0-a0c7-2757c099d6e4;path=/;SameSite=Strict;Secure;priority=high"],"x-content-type-options":"nosniff","x-xss-protection":"1","cache-control":"private,no-cache,no-store,max-age=0,must-revalidate","pragma":"no-cache","expires":"Thu, 01 Jan 1970 00:00:00 GMT","x-frame-options":"DENY","strict-transport-security":"max-age=63072000"}
+
+[debug] [2024-04-16T16:05:57.331Z] : >>>> HTTP REQUEST : GET https://api.catalyst.zoho.in/baas/v1/project/import 
+
+[debug] [2024-04-16T16:05:57.455Z] : <<<< HTTP RESPONSE : 200
+Response Headers: {"server":"ZGS","date":"Tue, 16 Apr 2024 16:05:57 GMT","content-type":"application/vnd.catalyst.v2+json","transfer-encoding":"chunked","connection":"keep-alive","set-cookie":["3a750b85f1=7c58023b2365c117e2ff9b6feb09efa2; Path=/","ZD_CSRF_TOKEN=51a3e6b7-8c08-408f-adad-7da9ad3cf3d8;path=/;SameSite=None;Secure;priority=high","_zcsr_tmp=51a3e6b7-8c08-408f-adad-7da9ad3cf3d8;path=/;SameSite=Strict;Secure;priority=high"],"x-content-type-options":"nosniff","x-xss-protection":"1","cache-control":"private,no-cache,no-store,max-age=0,must-revalidate","pragma":"no-cache","expires":"Thu, 01 Jan 1970 00:00:00 GMT","x-frame-options":"DENY","strict-transport-security":"max-age=63072000"}
+

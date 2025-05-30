@@ -1,0 +1,191 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  background-color: white;
+}
+body{
+  overflow-x: hidden;
+}
+/* front picture */
+.bodypicture{
+  position:absolute;
+  top:100px;
+  width:1300px;
+  left:130px;
+}
+
+.workout{
+  position:absolute;
+  top:18px;
+  width:120px;
+  left:700px;
+  font-family: bold;
+  font-size:30px;
+  height:50px;
+  background-color: white!important;
+  color: black !important;
+  
+}
+.workout:hover{
+  position: pointer;
+  text-decoration: underline !important;
+
+}
+
+.signin{
+  position:absolute;
+  top:20px;
+  width:106px;
+  left:1210px;
+  height: 39px;
+  background-color: black !important;
+  color:white !important;
+ 
+}
+
+.signup{
+  position:absolute;
+  top:20px;
+  width:106px;
+  left: 1340px;
+  height:39px;
+  background-color: black !important;
+  color: white !important;
+
+}
+
+.Logo{
+  position:absolute;
+  top: 16px;
+  left:46px;
+}
+
+.webname{
+  position:absolute;
+  top:4px;
+  left:128px;
+  text-decoration: solid;
+  font-style: bold;
+  height:300px;
+  width:auto !important;
+  font-size: 28px;
+  font-family: Signika Negative;
+}
+
+.picone{
+  position:absolute;
+  top:1060px;
+  left:694px;
+  width:600px;
+  height:560px;
+
+}
+
+.pictwo{
+ position:absolute;
+ top:1690px;
+ left: 208px;
+ width:1100px;
+ height:460px;
+}
+
+.picthree{
+
+  position:absolute;
+  top:2400px;
+  left: 608px;
+  width:1000px;
+  height:650px;
+}
+.piconecontent{
+  position:absolute;
+  top:1050px;
+  left:100px;
+  font-size: 28px;
+  font-family: Signika Negative;
+}
+
+
+.pictwocontent{
+  position:absolute;
+  top:1650px;
+  left:600px;
+  font-size: 28px;
+  color:cornsilk;
+}
+
+.pictwocontent1{
+  position:absolute;
+  top:2190px;
+  left:524px;
+  font-size: 24px;
+}
+
+.pictwocontent2{
+  position:absolute;
+  top:2300px;
+  left:310px;
+  font-size: 14px;
+}
+
+.picthreecontent{
+position: absolute;
+top:2520px;
+left:110px;
+font-size: 14px;
+}
+
+.picthreecontent1{
+  position:absolute;
+  top:2620px;
+  left:110px;
+  font-size: 12px;
+}
+
+.picthreecontent2{
+  position:absolute;
+  top:2680px;
+  left:110px;
+  font-size: 18px;
+
+}
+
+.picthreecontent3{
+  position:absolute;
+  top:2790px;
+  left:110px;
+  font-size: 12px;
+}
+
+.picthreecontent4{
+  position:absolute;
+  top:2850px;
+  left:110px;
+  font-size: 18px;
+}
+
+.picfour{
+  position:absolute;
+  top:3260px;
+  left: 208px;
+  width:1100px;
+  height:460px;
+ }
+
+ .picfive{
+  position:absolute;
+  top:3970px;
+  left: 0px;
+  width:100%;
+  height:88px;
+ }
+
+ .pic5content{
+   position:absolute;
+   top:3960px;
+   left:100px;
+   font-size: 28px;
+   font-family: Signika Negative;
+   color:white;
+ }

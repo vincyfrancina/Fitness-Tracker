@@ -1,0 +1,62 @@
+{
+    "1": {
+        "month": "january",
+        "days": 31,
+        "start": 1
+    },
+    "2": {
+        "month": "february",
+        "days": 29,
+        "start": 4
+    },
+    "3": {
+        "month": "march",
+        "days": 31,
+        "start": 5
+    },
+    "4": {
+        "month": "april",
+        "days": 30,
+        "start": 1
+    },
+    "5": {
+        "month": "may",
+        "days": 31,
+        "start": 3
+    },
+    "6": {
+        "month": "june",
+        "days": 30,
+        "start": 6
+    },
+    "7": {
+        "month": "july",
+        "days": 31,
+        "start": 1
+    },
+    "8": {
+        "month": "august",
+        "days": 31,
+        "start": 4
+    },
+    "9": {
+        "month": "september",
+        "days": 30,
+        "start": 7
+    },
+    "10": {
+        "month": "october",
+        "days": 31,
+        "start": 2
+    },
+    "11": {
+        "month": "november",
+        "days": 30,
+        "start": 5
+    },
+    "12": {
+        "month": "december",
+        "days": 31,
+        "start": 7
+    }
+}
