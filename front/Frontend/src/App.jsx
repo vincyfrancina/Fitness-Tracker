@@ -2,7 +2,7 @@ import LoginForm from './Components/Login/LoginForm.jsx';
 import Body from './Components/Body.jsx';
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import SignUpForm from "./Components/Signup/SignUpForm.jsx";
-import DashBoard from "./Components/Dashboard/Dashboard.jsx";
+import DashBoard from "./Components/DashBoard/Dashboard.jsx";
 import WorkoutForm from "./Components/WorkOut/WorkOutForm.jsx";
 import ProfileForm from "./Components/ProfileForm/ProfileForm.jsx";
 import {ToastContainer} from 'react-toastify'
